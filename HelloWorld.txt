@@ -1,6 +1,7 @@
-hello world!
 
-pulic class HelloWorld（）{
+hello world!
+public class HelloWorld(){
+
   private String username;
   private String password;
 }
