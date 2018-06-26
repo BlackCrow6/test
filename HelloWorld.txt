@@ -1,1 +1,6 @@
 hello world!
+
+pulic class HelloWorld（）{
+  private String username;
+  private String password;
+}
