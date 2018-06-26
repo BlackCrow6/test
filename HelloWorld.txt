@@ -1,1 +1,5 @@
-hello world!
+hello 
+public class HelloWorld(){
+  private String username;
+  private String password;
+}
